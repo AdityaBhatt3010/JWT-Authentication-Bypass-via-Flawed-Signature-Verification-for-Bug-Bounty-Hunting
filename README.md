@@ -1,8 +1,8 @@
 # 🛡️ JWT Authentication Bypass via Flawed Signature Verification for Bug Bounty Hunting
 
-**Author:** Aditya Bhatt
-**Category:** Bug Bounty / Web App Security / JWT Exploitation
-**Lab:** JWT authentication bypass via flawed signature verification
+**Author:** Aditya Bhatt <br/>
+**Category:** Bug Bounty / Web App Security / JWT Exploitation <br/>
+**Lab:** JWT authentication bypass via flawed signature verification <br/>
 
 > Exploit insecure JWT signature verification by forcing the algorithm to `none` and stripping the signature to gain unauthorized admin access.
 
